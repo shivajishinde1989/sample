@@ -1,1 +1,5 @@
-# sample
+<?php
+
+echo "Hello Wold";
+
+?>
